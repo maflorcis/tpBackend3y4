@@ -24,3 +24,5 @@
 ## Autores
 
 - María Florencia Alonso (perfil de github o linkedin)
+- 
+- Tuve que ajustar el front end porque tenía local storage
